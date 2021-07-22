@@ -32,6 +32,10 @@ Class ``Quit`` terminates the whole program.
 
 Class ``TestService`` mainly displays the *Yuru-chara*.
 
+### Bug Report
+
+We sincerely wish you can report a bug to us, or give us advice. You can create an issue or send me an email (iamsqy@outlook.com).
+
 ## 简体中文
 
 ### MyHaruna 的简介
@@ -61,3 +65,7 @@ MyHaruna 是一个在安卓桌面或其他应用上层展示 *看板娘* (英文
 类 ``Quit`` 结束整个程序。
 
 类 ``TestService`` 主要用于显示看板娘。
+
+### 报告漏洞
+
+我们真诚地希望您可以报告问题或提供建议。您可以创建一个 Issue，或者给我发送邮件 (iamsqy@outlook.com)。
