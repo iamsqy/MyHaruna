@@ -6,6 +6,12 @@
 
 MyHaruna is an Android app that displays a *Yuru-chara* (Chinese: 看板娘, Japanese: ゆるキャラ) on the desktop or above other apps.
 
+### Download
+
+**Note:** Current release is a **pre-release** version, which may be **unstable**.
+
+[Click here to go to Release page](https://github.com/iamsqy/MyHaruna/releases/tag/v1.0-alpha) to download this pre-release version.
+
 ### Features and Implementation
 
 The program uses ``webView`` to display a local ``html`` file with ``javascript`` that contains a *Yuru-chara* (who is *Hatsune Miku*, a Japanese virtual singer, in the prerelease version).
@@ -29,6 +35,12 @@ Class ``TestService`` mainly displays the *Yuru-chara*.
 ### MyHaruna 的简介
 
 MyHaruna 是一个在安卓桌面或其他应用上层展示 *看板娘* (英文: *Yuru-chara*, 日文: ゆるキャラ) 的应用程序。
+
+### 下载
+
+**请注意:** 当前发行为 **pre-release** 版本，可能**不稳定**。
+
+[点击此处去 Release 页面](https://github.com/iamsqy/MyHaruna/releases/tag/v1.0-alpha) 下载此预发行版本。
 
 ### 特性与实现
 
