@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Haruna</string>
+    <string name="copyright">Copyright © 还没想好昵称的新建p, 2021. All rights reserved.</string>
+    <string name="Haruna">看板娘</string>
+    <string name="help">看板娘使用 webView 展示网页 HTML + JS 实现。拖拽看板娘可以移动位置，点击看板娘可以调戏，点击退出可以关闭看板娘。当检测到网络变化或检测到电池低电量时，看板娘会自己找个洞钻起来。\n\n为确保看板娘正确显示，请授权应用程序 My Haruna 在其他应用上方显示、连接到 Internet，以及发送通知。如果仍无法看到通知，请检查是否关闭静默通知。</string>
+    <string name="show_haruna">显示看板娘</string>
+    <string name="quit">退出</string>
+    <string name="need_flow_permission">看板娘需要悬浮窗权限呦</string>
+    <string name="Haruna_is_running">看板娘正在运行</string>
+    <string name="Haruna_hello">由于您的到来，今天的天气好转了</string>
+    <string name="click_to_quit">由于您的到来，今天的天气好转了\n\n点击通知关闭看板娘</string>
+    <string name="Haruna_low_batt">检测到了低电量，先找个洞钻起来惹\n\n当……当电量足够后请一定将看板娘娶出来啊 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄\n\n要现在关闭看板娘嘛</string>
+    <string name="Haruna_hide">找个洞钻起来</string>
+    <string name="Haruna_batt_confirm">当……当电量足够后请一定将看板娘娶出来啊 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄\n\n要现在关闭看板娘嘛</string>
+    <string name="Haruna_low_batt_found">看板娘检测到了低电量</string>
+    <string name="Haruna_network_change_detected">检测到了网络变化，先找个洞钻起来惹\n\n当……当网络稳定后请一定将看板娘娶出来啊 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄\n\n要现在关闭看板娘嘛</string>
+    <string name="dig_a_hole">找个洞钻起来</string>
+    <string name="cancel">取消</string>
+    <string name="Haruna_network_change_confirm">当……当网络稳定后请一定将看板娘娶出来啊 ⁄(⁄ ⁄•⁄ω⁄•⁄ ⁄)⁄\n\n要现在关闭看板娘嘛</string>
+</resources>
