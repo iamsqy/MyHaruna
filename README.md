@@ -1,5 +1,7 @@
 # MyHaruna
 
+# 安卓看板娘
+
 ## English
 
 ### Introduction to MyHaruna
